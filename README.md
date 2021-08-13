@@ -51,7 +51,7 @@ Auditory is my least preferred learning style. Learning through ear is known as 
 
 <h5>Creativity Test: Curiosity, Imagination, Complexity, Risk Tolerance</h6>
 
-Risk: 19/26
+<p>Risk: 19/26
 Curiosity: 19/24
 Complexity: 15/26
 Imagination: 13/24
@@ -67,4 +67,4 @@ Complexity refers to the state of being elaborate or convoluted. When I find mys
 Finally, my imagination may be beneficial in the realm of technology. Imagining things from a new perspective is something I do frequently. A common example I see is imagining how a website might appear if the theme colour was altered. Furthermore, I enjoy imagining various future possibilities, such as being the first to discover something new, such as a new software to solve an existing problem. Because AI is built on imagination, it plays a significant role in the tech sector. 
 </p>
 
-<a href="https://www.w3schools.com">This is a link for more info about my personality</a>
+<p><a href="https://www.w3schools.com">This is a link for more info about my personality</a></p>
